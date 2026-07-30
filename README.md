@@ -7,7 +7,7 @@ It is an NLP-based chatbot designed to answer frequently asked questions about a
 [Open the FAQ Chatbot](https://codealpha-faqchatbot-prcdghhmrd3peacjyvfnac.streamlit.app/)
 
 ## Project Screenshot
-![FAQ Chatbot](chatbot-demo.png)
+[View the FAQ Chatbot screenshot](chatbot-demo.png)
 
 ## Features
 - Chat-style interface built with Streamlit
@@ -119,4 +119,5 @@ The application has been developed and deployed. Its response quality depends on
 ## Author
 
 **Shayan Akbar**
+
 Developed as part of the CodeAlpha Artificial Intelligence Internship.
